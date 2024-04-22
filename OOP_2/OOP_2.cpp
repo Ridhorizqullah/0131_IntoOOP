@@ -21,6 +21,8 @@ class BangunDatar {
 			return panjang * lebar;
 		}
 
+		void display()
+
 
 
 
