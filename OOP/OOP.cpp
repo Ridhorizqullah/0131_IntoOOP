@@ -8,6 +8,12 @@ public: // akses modedifier
 	string jurusan;
 
 	void output(){
-
+		cout << "nama: " << nama << endl;
+		cout << "umur: " << nama << endl;
+		cout << "jurusan: " << nama << endl;
 	}
+};
+
+class matakuliah {
+
 };
