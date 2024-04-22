@@ -15,5 +15,13 @@ public: // akses modedifier
 };
 
 class matakuliah {
+	private:
+		string kodemk;
+		string namamk;
+		int sks;
+	public :
+
+
+
 
 };
