@@ -25,12 +25,13 @@ class BangunDatar {
 			cout << "panjangnya = " << panjang << endl;
 			cout << "lebarnya  = " << panjang << endl;
 			cout << "luasnya = " << panjang << endl;
-
-
-
 		}
 		
+		int main() {
+			BangunDatar pp;
+			pp.input();
+			pp.display();
 
-
-
+			return 0;
+}
 };
