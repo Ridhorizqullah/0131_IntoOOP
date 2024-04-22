@@ -21,8 +21,15 @@ class BangunDatar {
 			return panjang * lebar;
 		}
 
-		void display()
+		void display() {
+			cout << "panjangnya = " << panjang << endl;
+			cout << "lebarnya  = " << panjang << endl;
+			
 
+
+
+		}
+		
 
 
 
